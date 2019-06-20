@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "971480411115",
+    "firebase_url": "https://storebytess.firebaseio.com",
+    "project_id": "storebytess",
+    "storage_bucket": "storebytess.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971480411115:android:e023875620e8e242",
+        "android_client_info": {
+          "package_name": "desenbytes.com.store_bytes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971480411115-hus2j8vkt3isbt624lfuvpr04sga3mqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBORwF_wK9mV0kEpUSnrnvBNY3dv440pO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971480411115-hus2j8vkt3isbt624lfuvpr04sga3mqu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
