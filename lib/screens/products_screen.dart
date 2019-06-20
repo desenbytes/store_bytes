@@ -49,7 +49,7 @@ class _ProductScreenState extends State<ProductScreen> {
                     fontSize: 20.0,
                     fontWeight: FontWeight.w500
                   ),
-                  maxLines: 4,
+                  maxLines: 3,
                 ),
                 Text(
                   "R\$ ${product.price.toStringAsFixed(2)}",
